@@ -1,4 +1,4 @@
 local CustomLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/Braistein/GameChecker/d2bdd4210aa78f291cbd360930b1a6f801d9003f/CheckerLibrary"))()
 local SET_UP = CustomLoader("Motto Hub", "json",{
-   URL = "https://raw.githubusercontent.com/Braistein/GameChecker/main/Game%20List.json?token=GHSAT0AAAAAACFJYPMTYMFP3X6DXHVHYACQZFYNHHA";
+   URL = "https://raw.githubusercontent.com/Braistein/GameChecker/main/Game%20List.json";
 })
